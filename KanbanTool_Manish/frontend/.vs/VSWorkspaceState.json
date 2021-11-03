@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\actions",
+    "\\src\\components",
+    "\\src\\components\\Layout",
+    "\\src\\components\\Project",
+    "\\src\\components\\ProjectBoard",
+    "\\src\\components\\ProjectBoard\\ProjectTasks",
+    "\\src\\components\\UserManagement",
+    "\\src\\reducers"
+  ],
+  "SelectedNode": "\\src\\components\\Layout\\Header.js",
+  "PreviewInSolutionExplorer": false
+}
